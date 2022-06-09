@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<h1>Página principal.</h1>
+<a href="pagina2.html">deporte</a>
+<a href="pagina3.html">cultura</a>
+</body>
+</html>
